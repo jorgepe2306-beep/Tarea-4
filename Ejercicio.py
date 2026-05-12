@@ -269,7 +269,7 @@ class Reserva:
             f"Estado: {self.estado}"
         )
 
-
+# Simulación de operaciones válidas e inválidas
 # ==========================================
 # SIMULACIONES
 # ==========================================
