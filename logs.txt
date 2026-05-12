@@ -1,0 +1,13 @@
+2026-05-12 09:52:28,784 - INFO - Cliente creado correctamente: Carlos Pérez
+2026-05-12 09:52:28,785 - ERROR - Error al crear cliente: El nombre no puede estar vacío
+2026-05-12 09:52:28,786 - INFO - Reserva creada para Carlos Pérez
+2026-05-12 09:52:28,786 - INFO - Reserva confirmada para Carlos Pérez
+2026-05-12 09:52:28,787 - INFO - Pago procesado correctamente: 178500.0
+2026-05-12 09:52:28,787 - INFO - Finalizó proceso de pago
+2026-05-12 09:52:28,788 - ERROR - Error creando reserva: La duración debe ser mayor que cero
+2026-05-12 09:52:28,788 - INFO - Reserva creada para Carlos Pérez
+2026-05-12 09:52:28,788 - INFO - Reserva confirmada para Carlos Pérez
+2026-05-12 09:52:28,788 - INFO - Pago procesado correctamente: 664000.0
+2026-05-12 09:52:28,789 - INFO - Finalizó proceso de pago
+2026-05-12 09:52:28,789 - INFO - Reserva cancelada para Carlos Pérez
+2026-05-12 09:52:28,789 - ERROR - Error creando reserva: Cliente inválido
