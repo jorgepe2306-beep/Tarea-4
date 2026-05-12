@@ -2,7 +2,7 @@ from abc import ABC, abstractmethod
 import logging
 # Sistema desarrollado para Software FJ
 # ==========================================
-# CONFIGURACIÓN DE LOGS
+# Configuración del sistema de logs
 # ==========================================
 
 logging.basicConfig(
