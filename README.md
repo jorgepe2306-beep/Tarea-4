@@ -1,4 +1,4 @@
-# Software FJ
+# EJERCICIO 1
 
 Sistema desarrollado en Python para la gestión de clientes, servicios y reservas.
 
