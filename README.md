@@ -25,3 +25,10 @@ python main.py
 ## Autor
 
 Jorge Pérez
+## Características
+
+- Programación Orientada a Objetos
+- Manejo avanzado de excepciones
+- Encapsulación
+- Herencia
+- Polimorfismo
