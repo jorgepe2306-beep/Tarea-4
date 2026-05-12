@@ -10,7 +10,7 @@ Funciones principales:
 - Registro de logs
 
 Archivos:
-- main.py
+- Ejercicio.py
 - logs.txt
 - documento_final.pdf
 
