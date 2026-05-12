@@ -84,7 +84,7 @@ class Cliente(Entidad):
 
 
 # ==========================================
-# CLASE ABSTRACTA SERVICIO
+# # Clase abstracta de servicios
 # ==========================================
 
 class Servicio(ABC):
