@@ -182,7 +182,7 @@ class AsesoriaEspecializada(Servicio):
 
 
 # ==========================================
-# CLASE RESERVA
+# Clase encargada de gestionar reservas
 # ==========================================
 
 class Reserva:
