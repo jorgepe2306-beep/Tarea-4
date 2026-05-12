@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 import logging
-
+# Sistema desarrollado para Software FJ
 # ==========================================
 # CONFIGURACIÓN DE LOGS
 # ==========================================
