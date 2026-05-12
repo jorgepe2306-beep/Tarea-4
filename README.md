@@ -1,22 +1,23 @@
 # Software FJ
 
-Sistema integral de gestión de clientes, servicios y reservas desarrollado en Python.
+Proyecto realizado en Python para la gestión de clientes, servicios y reservas.
 
-## Funciones
+El sistema permite:
+- Registrar clientes
+- Gestionar servicios
+- Realizar reservas
+- Manejar excepciones
+- Generar logs de errores y eventos
 
-- Gestión de clientes
-- Gestión de reservas
-- Servicios especializados
-- Manejo avanzado de excepciones
-- Registro de logs
+## Archivos
 
-## Tecnologías
-
-- Python 3
+- main.py → código principal
+- logs.txt → registro de eventos y errores
+- documento_final.pdf → documentación del proyecto
 
 ## Ejecución
 
-Ejecutar:
+Ejecutar el siguiente comando:
 
 ```bash
 python main.py
@@ -25,10 +26,3 @@ python main.py
 ## Autor
 
 Jorge Pérez
-## Características
-
-- Programación Orientada a Objetos
-- Manejo avanzado de excepciones
-- Encapsulación
-- Herencia
-- Polimorfismo
